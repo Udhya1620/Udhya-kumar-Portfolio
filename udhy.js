@@ -6,6 +6,15 @@ menuIcon.onclick = () => {
     menuIcon.classList.toggle('bx-x');
     navbar.classList.toggle('active');
 };
+// function toggleNavbar() {
+//     const navbar = document.querySelector('.navbar');
+//     navbar.classList.toggle('active');
+// }
+
+// window.addEventListener('scroll', function() {
+//     const header = document.querySelector('.header');
+//     header.classList.toggle('sticky', window.scrollY > 0);
+// });
 
 /*==================== scroll sections active link ====================*/
 

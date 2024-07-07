@@ -241,6 +241,7 @@ span {
 
 .services-box {
     flex: 1 1 30rem;
+    font-size: 1.4rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
